@@ -1,6 +1,6 @@
 from plyer import notification
 
-# Send Notification
+# Send and Show Notification
 notification.notify(
     title="Reminder",
     message="Take a break and stretch!",
