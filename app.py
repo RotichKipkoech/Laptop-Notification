@@ -1,3 +1,4 @@
+# pip install plyer
 from plyer import notification
 
 # Send and Show Notification
